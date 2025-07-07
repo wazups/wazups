@@ -148,6 +148,12 @@
 
 ----
 
+<div align="center">
+  <h2><u>my selfie(pls anon)</u></h2>
+  
+  ![archetypumdev](https://github.com/user-attachments/assets/653b7e3a-421a-4702-a975-8499651da618)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=THANK+YOU+FOR+VISITING+MY+README!" alt="Thank you message">
