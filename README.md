@@ -53,3 +53,40 @@
 ![fire](https://github.com/user-attachments/assets/bbcf30ac-e1c0-483d-8f13-c2657d64fed4)
 
 </div>
+
+*<u>I will also tell you, my beloved readers, it is very important, cool, significant, essential, fundamental, necessary, urgent, paramount, significant, valuable, weighty, mysterious and mystical a secret that...</u>*
+
+- I am the 3rd member of the organization  **[Archetypum](https://github.com/Archetypum)**
+
+<table style="width: 90%; max-width: 1200px; margin: 20px auto; border-collapse: collapse; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <tr>
+    <td valign="top" style="padding: 30px; background-color: #f8f9fa; border-radius: 8px 0 0 8px;">
+      <h1 style="color: #2d333b; font-size: 32px; margin-top: 0;">The Archetype</h1>
+      <p style="font-size: 18px; line-height: 1.6; color: #444;">
+        Archetypum is a non-profit organization focused on creating and distributing free and open-source software with a strong emphasis on security, stability, and user privacy. Founded in       
+        $DATE, we’ve been working passionately to support the ideals of digital freedom and autonomy.
+      </p>
+      <div style="margin-top: 30px;">
+        <h2 style="color: #2d333b; font-size: 24px;">Projects I am involved in:</h2>
+        <ul style="font-size: 16px; line-height: 1.8;">
+          <li>tum-rust(Work In Progress)</li>
+          <li>[theSuffocater]</li>
+          <li>[theSuffocaterOverhaul](Work In Progress)</li>
+        </ul>
+      </div>
+      <div style="margin-top: 30px;">
+      </div>
+    </td>
+    <td width="400" style="background-color: #2d333b; border-radius: 0 8px 8px 0; text-align: center; padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/191783604?s=200&v=4" width="300" style="border-radius: 50%; border: 5px solid #f8f9fa; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <div style="margin-top: 30px; color: white;">
+        <h2 style="font-size: 24px; margin-bottom: 10px;">Archetypum</h2>
+        <p style="font-size: 16px; line-height: 1.6; opacity: 0.9;">Tomorrow comes today.</p>
+      </div>
+      <div style="margin-top: 30px;">
+      </div>
+    </td>
+  </tr>
+</table>
+
+
